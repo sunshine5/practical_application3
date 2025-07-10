@@ -28,4 +28,5 @@ The observations from the comparison with the first run with default parameters 
 * The Train accuracy was lower with GridSearchCV best params run when compared with default parameter run.
 
 ## Jupyter Notebook:
+* https://github.com/sunshine5/practical_application3/blob/main/prompt_III.ipynb
 
